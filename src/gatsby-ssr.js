@@ -1,5 +1,5 @@
 import React from 'react';
-import { mediaStyles } from './instance';
+import { mediaStyles } from './';
 
 export const onPreRenderHTML = ({
   getHeadComponents,
