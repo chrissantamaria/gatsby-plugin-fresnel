@@ -4,6 +4,11 @@
   "author": "Chris Santamaria <chris@santamaria.me>",
   "main": "index.js",
   "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "fresnel"
+  ],
   "scripts": {
     "build": "babel src --out-dir .",
     "watch": "babel -w src --out-dir .",
