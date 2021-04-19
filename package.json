@@ -4,6 +4,7 @@
   "author": "Chris Santamaria <chris@santamaria.me>",
   "main": "index.js",
   "license": "MIT",
+  "repository": "https://github.com/chrissantamaria/gatsby-plugin-fresnel.git",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
