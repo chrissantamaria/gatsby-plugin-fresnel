@@ -1,5 +1,7 @@
 # gatsby-plugin-fresnel
 
+[![npm version](https://badge.fury.io/js/gatsby-plugin-fresnel.svg)](https://badge.fury.io/js/gatsby-plugin-fresnel)
+
 Provides easy drop-in support for [@artsy/fresnel](https://github.com/artsy/fresnel) in Gatsby.
 
 ## Install
