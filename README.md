@@ -54,3 +54,9 @@ const Home = () => (
 ```
 
 See the [@artsy/fresnel README](https://github.com/artsy/fresnel) for full documentation.
+
+## ⚠️ Render behavior
+
+Note that this plugin utilizes the [`disableDynamicMediaQueries` option](https://github.com/artsy/fresnel#disabledynamicmediaqueries) from @artsy/fresnel to mitigate hydration mismatch errors introduced in React 18. As a result, all children of `Media` components will be rendered regardless of visibility.
+
+For more information, refer to [@artsy/fresnel's README section](https://github.com/artsy/fresnel#%EF%B8%8F-react-18-notice).
